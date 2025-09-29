@@ -1,4 +1,4 @@
-# Template One
+# Leon-Creative-Minimal-Web-Template
 
 # [Live Demo](https://hagar992.github.io/Leon-Creative-Minimal-Web-Template/)
 
